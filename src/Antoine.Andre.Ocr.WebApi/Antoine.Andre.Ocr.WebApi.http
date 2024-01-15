@@ -1,0 +1,6 @@
+@Antoine.Andre.Ocr.WebApi_HostAddress = http://localhost:5168
+
+GET {{Antoine.Andre.Ocr.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
